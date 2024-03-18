@@ -2,7 +2,7 @@
 layout: page
 permalink: /temporal/
 title: Temporal
-nav: true
+nav: false
 nav_order: 3
 ---
 

@@ -39,6 +39,10 @@ $max-content-width: {{ site.max_width }};
 // 	font-family: 'univers_next_proHvCn', sans-serif;
 // }
 
+.nav-item {
+	font-weight: bolder;
+}
+
 .social {
 	.contact-icons {
 		font-size: 1rem;

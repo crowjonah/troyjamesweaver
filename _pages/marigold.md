@@ -2,7 +2,7 @@
 layout: page
 permalink: /marigold/
 title: Marigold
-nav: true
+nav: false
 nav_order: 3
 ---
 

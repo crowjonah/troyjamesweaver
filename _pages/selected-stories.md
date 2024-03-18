@@ -2,7 +2,7 @@
 layout: page
 permalink: /selected-stories/
 title: Selected Stories
-nav: true
+nav: false
 nav_order: 3
 ---
 

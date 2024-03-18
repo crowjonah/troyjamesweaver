@@ -2,7 +2,7 @@
 layout: page
 permalink: /visions/
 title: Visions
-nav: true
+nav: false
 nav_order: 3
 ---
 

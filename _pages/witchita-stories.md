@@ -2,7 +2,7 @@
 layout: page
 permalink: /witchita-stories/
 title: Witchita Stories
-nav: true
+nav: false
 nav_order: 2
 ---
 
