@@ -181,12 +181,12 @@ let initTheme = (theme) => {
   setTheme(theme);
 };
 
-initTheme(localStorage.getItem("theme"));
+initTheme("dark");
 
-document.addEventListener("DOMContentLoaded", function () {
-  const mode_toggle = document.getElementById("light-toggle");
+// document.addEventListener("DOMContentLoaded", function () {
+//   const mode_toggle = document.getElementById("light-toggle");
 
-  mode_toggle.addEventListener("click", function () {
-    toggleTheme(localStorage.getItem("theme"));
-  });
-});
+//   mode_toggle.addEventListener("click", function () {
+//     toggleTheme(localStorage.getItem("theme"));
+//   });
+// });
