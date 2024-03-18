@@ -1,0 +1,15 @@
+{% if site.email %}
+  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+{% endif %}
+{% if site.x_username %}
+  <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fab fa-x-twitter"></i></a>
+{% endif %}
+{% if site.instagram_id %}
+  <a href="https://instagram.com/{{ site.instagram_id }}" title="Instagram"><i class="fab fa-instagram"></i></a>
+{% endif %}
+{% if site.facebook_id %}
+  <a href="https://facebook.com/{{ site.facebook_id }}" title="Facebook"><i class="fab fa-facebook"></i></a>
+{% endif %}
+{% if site.goodreads_id %}
+  <a href="https://goodreads.com/{{ site.goodreads_id }}" title="Goodreads"><i class="fab fa-goodreads"></i></a>
+{% endif %}
