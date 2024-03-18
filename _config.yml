@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: graham irvin
-email: grahamirvin90@gmail.com
-description: Graham Irvin is a writer from North Carolina. He lives in Philadelphia, PA. He runs the “Write about Everything” poetry workshop at Lot 49 Books.
+title: Troy James Weaver
+email: troyweav@yahoo.com
+description: Troy James Weaver is the author of Witchita Stories, Temporal, Visions, and Marigold. He lives in Wichita, Kansas with his wife and dogs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://grahamirvin.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: grahamjirvin
+url: "https://troyjamesweaver.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: teaweave
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -65,14 +65,14 @@ og_image: prof_pic.jpg # The site-wide (default for all links) Open Graph previe
 # Social integration
 # -----------------------------------------------------------------------------
 
-x_username: grahamjirvin
+x_username: teaweave
 scholar_userid: # your Google Scholar ID
 
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: _gram_irvin # your instagram id
+instagram_id: weaver.troy # your instagram id
 facebook_id: # your facebook id
-goodreads_id: author/show/21837468.Graham_Irvin # your goodreads id
+goodreads_id: author/show/13525789.Troy_James_Weaver # your goodreads id
 
 # contact_note: >
 #   You can even add a little note about which of these is the best way to reach you.
@@ -83,7 +83,7 @@ goodreads_id: author/show/21837468.Graham_Irvin # your goodreads id
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: G-YFK7LKM10N # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: # G-YFK7LKM10N # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
@@ -94,8 +94,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: graham blog # blog_name will be displayed in your blog page
-blog_description: a blog for graham
+blog_name: troy blog # blog_name will be displayed in your blog page
+blog_description: a blog for troy
 permalink: /blog/:year/:title/
 
 # Pagination
