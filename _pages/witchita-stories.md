@@ -15,7 +15,7 @@ Available from [Future Tense Books](https://futuretensebooks.com/product/wichita
 
 <p class="text-center"><i class="fa-solid fa-circle"></i></p>
 
-### Praise for _i have a gun_
+### Praise for _Witchita Stories_
 
 “There are moments, reading Witchita Stories, where everything dropped away, and I was speechless, or at least whatever the equivalent of speechless is when you’re not talking in the first place. There is a deep sadness to these stories, and humor, but most importantly, honesty. This feels real and heavy and it’s just about the best thing I’ve read in a long time.”
 
