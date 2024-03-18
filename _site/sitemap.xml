@@ -20,10 +20,16 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/marigold/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/news/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/temporal/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/visions/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/witchita-stories/</loc>
