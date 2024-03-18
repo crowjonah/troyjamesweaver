@@ -4,6 +4,7 @@ permalink: /visions/
 title: Visions
 nav: false
 nav_order: 3
+description: 2015 / 2021
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/visions.jpg" class="w-50 pl-3 pb-3 float-right" %}

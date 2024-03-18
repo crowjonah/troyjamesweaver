@@ -4,6 +4,7 @@ permalink: /witchita-stories/
 title: Witchita Stories
 nav: false
 nav_order: 2
+description: 2015
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/witchitastories.jpg" class="w-50 pl-3 pb-3 float-right" %}

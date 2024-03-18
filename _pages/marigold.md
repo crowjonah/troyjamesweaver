@@ -4,6 +4,7 @@ permalink: /marigold/
 title: Marigold
 nav: false
 nav_order: 3
+description: 2016
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/marigold.jpg" class="w-50 pl-3 pb-3 float-right" %}

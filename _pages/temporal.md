@@ -4,6 +4,7 @@ permalink: /temporal/
 title: Temporal
 nav: false
 nav_order: 3
+description: 2018
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/temporal.jpg" class="w-50 pl-3 pb-3 float-right" %}
