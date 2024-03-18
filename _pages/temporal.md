@@ -37,20 +37,6 @@ Available from [Disorder Press](https://disorderpress.com/store/temporalanovel).
 
 - Excerpt in [Tyrant](https://magazine.nytyrant.com/excerpt-of-temporal-troy-james-weaver/)
 
-<!-- - Excerpt in [Misery Tourism](https://www.miserytourism.com/7-short-liver-mush-poems/)
-- Excerpt in [Neutral Spaces Magazine](https://neutralspaces.co/magazine/two/irvin.html)
-- Excerpt in [Apocalypse Confidential](https://apocalypse-confidential.com/2023/06/13/a-gun-from-montgunery/) -->
+#### Interviews
 
-<!-- #### Interviews
-
-- Interview on [The Lives of Writers](https://podcasts.apple.com/us/podcast/graham-irvin-guest-host-mike-nagel/id1535890216?i=1000558995925)
-- Interview on [Writing the Rapids](https://podcasts.apple.com/us/podcast/liver-mush-with-graham-irvin/id1348303650?i=1000555876818)
-- Interview on [Left The Hose On](https://podcasters.spotify.com/pod/show/franco-romero1/episodes/Not-Going-Home--with-Graham-Irvin-e12f9as)
-- Interview on [Textual Healing](https://podcasts.apple.com/us/podcast/a-little-more-magic-a-little-more-liver/id1531379844?i=1000566090108)
-- Interview with Crow Jonah Norlander in [Hobart](https://www.hobartpulp.com/web_features/maybe-then-i-ll-be-cured-an-interview-with-graham-irvin)
-- Interview with Blake Middleton in [Vol. 1 Brooklyn](https://vol1brooklyn.com/2021/11/08/they-put-a-gun-in-my-face-about-poetry-the-liver-mush-interview-with-graham-irvin/)
-
-#### Reviews
-
-- Review by Lucas Restivo in [Misery Tourism](https://www.miserytourism.com/review-of-graham-irvins-liver-mush-by-some-guy/)
-- Review by Scott Manley Hadley in [Triumph of the Now](https://triumphofthenow.com/2022/10/24/poetry-month-liver-mush-by-graham-irvin/) -->
+- Otherppl with Brad Listi [Episode 508](https://podcasts.apple.com/ie/podcast/episode-508-troy-james-weaver/id472152554?i=1000406319671)
