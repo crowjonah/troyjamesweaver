@@ -15,9 +15,11 @@ nav_order: 3
 
 Available from [Apocalypse Party](https://www.apocalypse-party.com/visions.html) and [Amazon](https://www.amazon.com/Visions-Troy-James-Weaver/dp/1954899998).
 
-<!-- ### Praise for _Temporal_
+### Praise for _Temporal_
 
-“Troy James Weaver can write an irrational divorced drunken noise rock making bathrobe clad dad like a motherfucker. And if that isn't enough to make you buy Temporal right now than there's little hope left for any of us.”
+- Dennis Cooper's [Favorites of 2021](https://denniscooperblog.com/mine-for-yours-my-favorite-fiction-poetry-non-fiction-film-art-and-internet-of-2021-so-far/)
+
+<!-- “Troy James Weaver can write an irrational divorced drunken noise rock making bathrobe clad dad like a motherfucker. And if that isn't enough to make you buy Temporal right now than there's little hope left for any of us.”
 
 — Steve Anwyll, author of WELFARE
 
@@ -43,16 +45,12 @@ Available from [Apocalypse Party](https://www.apocalypse-party.com/visions.html)
 - Excerpt in [Neutral Spaces Magazine](https://neutralspaces.co/magazine/two/irvin.html)
 - Excerpt in [Apocalypse Confidential](https://apocalypse-confidential.com/2023/06/13/a-gun-from-montgunery/) -->
 
-<!-- #### Interviews
+#### Interviews
 
-- Interview on [The Lives of Writers](https://podcasts.apple.com/us/podcast/graham-irvin-guest-host-mike-nagel/id1535890216?i=1000558995925)
-- Interview on [Writing the Rapids](https://podcasts.apple.com/us/podcast/liver-mush-with-graham-irvin/id1348303650?i=1000555876818)
-- Interview on [Left The Hose On](https://podcasters.spotify.com/pod/show/franco-romero1/episodes/Not-Going-Home--with-Graham-Irvin-e12f9as)
-- Interview on [Textual Healing](https://podcasts.apple.com/us/podcast/a-little-more-magic-a-little-more-liver/id1531379844?i=1000566090108)
-- Interview with Crow Jonah Norlander in [Hobart](https://www.hobartpulp.com/web_features/maybe-then-i-ll-be-cured-an-interview-with-graham-irvin)
-- Interview with Blake Middleton in [Vol. 1 Brooklyn](https://vol1brooklyn.com/2021/11/08/they-put-a-gun-in-my-face-about-poetry-the-liver-mush-interview-with-graham-irvin/)
+- Interview in [X-R-A-Y](https://xraylitmag.com/troy-james-weaver-does-a-little-chatting-with-graham-irvin/interviews-reviews/)
+- Interview on [Selected Prose](https://podcasts.apple.com/us/podcast/25-troy-james-weaver/id1532739236?i=1000542473682)
 
 #### Reviews
 
-- Review by Lucas Restivo in [Misery Tourism](https://www.miserytourism.com/review-of-graham-irvins-liver-mush-by-some-guy/)
-- Review by Scott Manley Hadley in [Triumph of the Now](https://triumphofthenow.com/2022/10/24/poetry-month-liver-mush-by-graham-irvin/) -->
+- Review by GABINO IGLESIAS in [Vol. 1 Brooklyn](http://vol1brooklyn.com/2015/03/03/a-review-of-troy-james-weavers-visions/)
+- Review in [Dead End Follies](http://www.deadendfollies.com/blog//2015/03/book-review-troy-james-weaver-visions.html)
