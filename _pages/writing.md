@@ -2,7 +2,6 @@
 layout: page
 permalink: /writing/
 title: Writing
-# description: The published works of Graham Irvin
 nav: true
 nav_order: 6
 ---
