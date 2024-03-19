@@ -46,3 +46,5 @@ nav_order: 6
 - [Every Word Carries Weight \| An Interview with Jon Lindsey](https://southwestreview.com/every-word-carries-weight-an-interview-with-jon-lindsey/) in Southwest Review
 - [Too Loud for the Status Quo \| A Conversation with Elizabeth Ellen](https://southwestreview.com/too-loud-for-the-status-quo-a-conversation-with-elizabeth-ellen/) in Southwest Review
 - [White Trash Gospel \| A Conversation with Elle Nash](https://southwestreview.com/white-trash-gospel-a-conversation-with-elle-nash/) in Southwest Review
+- [In The Red Barn: A Conversation with Nat Baldwin](http://thefanzine.com/in-the-red-barn-a-conversation-with-nat-baldwin/) in Fanzine
+- [Curious: An Interview With Living Representatives Of Heaven’s Gate](http://thefanzine.com/thanksgiving-with-the-heavens-gate/) in Fanzine
