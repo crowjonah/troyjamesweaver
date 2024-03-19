@@ -1,3 +1,3 @@
 $(document).ready(function () {
-	$("a").removeClass("waves-effect waves-light");
+  $("a").removeClass("waves-effect waves-light");
 });

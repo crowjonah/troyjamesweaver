@@ -11,7 +11,7 @@ nav_order: 6
 
 - [The X-Men Can’t Save You](https://rejection-letters.com/2024/03/06/the-x-men-cant-save-you-troy-weaver/) in Rejection Letters
 - [Be Nice, You Never Know What Other People Are Going Through](https://www.havehashad.com/hadposts/be-nice-you-never-know-what-other-people-are-going-through) in HAD
-- [Partial Suicide](https://www.hobartpulp.com/web_features/partial-suicide) in Hobart
+- [Partial Suicide](https://www.hobartpulp.com/web_features/partial-suicide) in Hobart, anthologized in _Suicide_ ([House of Vlad/Cash 4 Gold](https://asterismbooks.com/product/suicide-an-anthology), [Amazon](https://www.amazon.com/dp/B0CPFLPLQL))
 - [Fat-lipped and Cup-half-fullish](https://www.havehashad.com/hadposts/fat-lipped-and-cup-half-fullish) in HAD
 - [What Should I Call This](https://southwestreview.com/volume-105-number-4/what-should-i-call-this/) in Southwest Review
 - [Construction](http://www.juked.com/2019/04/troy-james-weaver-construction.asp) in Juked
