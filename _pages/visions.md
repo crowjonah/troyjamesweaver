@@ -14,11 +14,15 @@ description: 2015 / 2021
 “A noir fueled as much by the dread of what might happen as what actually occurs, with a narrator teetering on the edge of something very dark indeed. Beautifully sparse and precise, like someone tapping softly on your skull with a ball-peen hammer trying to feel out the perfect place to crack it open.”
 —Brian Evenson, author of _Windeye_ and _A Collapse of Horses_
 
-Available from [Apocalypse Party](https://www.apocalypse-party.com/visions.html) and [Amazon](https://www.amazon.com/Visions-Troy-James-Weaver/dp/1954899998).
+Available from [Apocalypse Party](https://www.apocalypse-party.com/visions.html), [Bookshop](https://bookshop.org/contributors/troy-james-weaver), and [Amazon](https://www.amazon.com/Visions-Troy-James-Weaver/dp/1954899998).
 
 ### Praise for Visions
 
 - Dennis Cooper's [Favorites of 2021](https://denniscooperblog.com/mine-for-yours-my-favorite-fiction-poetry-non-fiction-film-art-and-internet-of-2021-so-far/)
+
+#### Excerpts
+
+- Excerpt in [Heavy Feather Review](https://heavyfeatherreview.org/2018/05/06/weaver/)
 
 #### Interviews
 

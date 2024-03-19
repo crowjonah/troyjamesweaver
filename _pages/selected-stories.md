@@ -14,9 +14,9 @@ description: 2020
 “I don’t like telling people what to do and I don’t like being told what to do. But right now I’m telling you to read the stories of Troy James Weaver. From the beginning, Weaver’s been unafraid to show us humanity in all its grotesque, stupid, and beautiful glory. His stories are for the young and for the old, for the strong and the weak, for the sick and the dying and the dead. Luckily, if you’re reading this, you’re alive and you’re holding this book in your hands. Read these stories and learn a little bit about what it means to be alive.”
 —Joseph Grantham, author of _Raking Leaves_
 
-Available from [Apocalypse Party](https://www.apocalypse-party.com/selectedstories.html) and [Amazon](https://www.amazon.com/Selected-Stories-Troy-James-Weaver/dp/1733569421).
+Available from [Apocalypse Party](https://www.apocalypse-party.com/selectedstories.html), [Bookshop](https://bookshop.org/contributors/troy-james-weaver), and [Amazon](https://www.amazon.com/Selected-Stories-Troy-James-Weaver/dp/1733569421).
 
-### Praise for Visions
+### Praise for Selected Stories
 
 - Dennis Cooper's [Favorites of 2019](https://denniscooperblog.com/mine-for-yours-my-favorite-fiction-poetry-non-fiction-film-art-and-internet-of-2019/)
 
@@ -34,3 +34,4 @@ Available from [Apocalypse Party](https://www.apocalypse-party.com/selectedstori
 #### Reviews
 
 - Review by Jon Doyle in [Entropy](https://web.archive.org/web/20220627052704/https://entropymag.org/review-selected-stories-by-troy-james-weaver/)
+- Review by Adam Van Winkle in [Cowboy Jamboree](http://www.cowboyjamboreemagazine.com/troy-james-weavers-selected-stories.html)

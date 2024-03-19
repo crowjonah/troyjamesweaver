@@ -28,8 +28,9 @@ nav_order: 6
 - [We Are All We've Done](https://nailedmagazine.com/fiction/ [Nailed Magazine]we-are-all-weve-done-by-troy-james-weaver/)
 - [Excerpt from Marigold](http://www.funhousemagazine.com/fresh-cuts-posts/2016/5/10/marigold) in Funhouse Magazine
 - [Abelard and Heloise](http://thefanzine.com/abelard-and-heloise/) in Fanzine
-- [Three Short Pieces from Witchita Stories ](http://vol1brooklyn.com/2015/01/27/three-short-pieces-from-troy-james-weavers-witchita-stories/)[Vol. 1 Brooklyn
+- [Three Short Pieces from Witchita Stories](http://vol1brooklyn.com/2015/01/27/three-short-pieces-from-troy-james-weavers-witchita-stories/)Vol. 1 Brooklyn
 - [Abelard Dies](http://vol1brooklyn.com/2016/11/06/sunday-stories-abelard-dies/) in Vol. 1 Brooklyn
+- [Ears](https://atticusreview.org/ears/) in Atticus Review
 
 ### Essays
 
@@ -37,4 +38,12 @@ nav_order: 6
 
 ### Editor
 
+- [An Onslaught](https://xraylitmag.com/an-onslaught-curated-by-troy-james-weaver/issue/), X-R-A-Y
 - [Cassette 85](https://www.dostoyevskywannabe.com/sampler/cassette_85), Dostoyevsky Wannabe
+
+### Interviews
+
+- [Difficulty is my Drug of Choice: An Interview with Dennis Cooper](https://southwestreview.com/difficulty-is-my-drug-of-choice-an-interview-with-dennis-cooper/) in Southwest Review
+- [Every Word Carries Weight \| An Interview with Jon Lindsey](https://southwestreview.com/every-word-carries-weight-an-interview-with-jon-lindsey/) in Southwest Review
+- [Too Loud for the Status Quo \| A Conversation with Elizabeth Ellen](https://southwestreview.com/too-loud-for-the-status-quo-a-conversation-with-elizabeth-ellen/) in Southwest Review
+- [White Trash Gospel \| A Conversation with Elle Nash](https://southwestreview.com/white-trash-gospel-a-conversation-with-elle-nash/) in Southwest Review

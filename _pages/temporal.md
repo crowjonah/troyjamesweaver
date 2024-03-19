@@ -37,7 +37,9 @@ Available from [Disorder Press](https://disorderpress.com/store/temporalanovel).
 #### Excerpts
 
 - Excerpt in [Tyrant](https://magazine.nytyrant.com/excerpt-of-temporal-troy-james-weaver/)
+- Excerpts in [Hobart](https://www.hobartpulp.com/web_features/four-excerpts-from-temporal)
 
 #### Interviews
 
 - Otherppl with Brad Listi [Episode 508](https://podcasts.apple.com/ie/podcast/episode-508-troy-james-weaver/id472152554?i=1000406319671)
+- Interview with Benjamin Drevlow in [Bull](https://mrbullbull.com/newbull/the-bull-interview/troy-james-weaver/)
