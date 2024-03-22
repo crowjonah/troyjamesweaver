@@ -5,6 +5,7 @@ title: Witchita Stories
 nav: false
 nav_order: 2
 description: 2015
+og_image: /assets/img/witchitastories.jpg
 ---
 
 {% include figure.liquid loading="eager" path="assets/img/witchitastories.jpg" class="w-50 pl-3 pb-3 float-right" %}
